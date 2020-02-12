@@ -1,9 +1,12 @@
 import React from 'react';
+import Header from './Header';
+import Background from './Background';
 
 function App(){
     return (
         <div>
-            Render components here
+            <Header />
+            <Background />
         </div>
     );
 }
