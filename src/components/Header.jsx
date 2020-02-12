@@ -5,7 +5,8 @@ function Header() {
         width: '50px',
         height: '50px',
         marginLeft: '25px',
-        marginTop: '25px'
+        marginTop: '25px',
+        background: 'transparent'
     };
     const LinkStyles = {
         padding: '30px',
